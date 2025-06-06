@@ -37,5 +37,5 @@
 
 ---
 
-<h3 align="center"> 💖 Thanks for visiting me! 💖</h3>
-<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="100" />
+<h3 align="center"> 💖 Thanks for visiting me! 💖 </h3>
+<p align="center"> <img src="gif.gif" width="300" </p> 
